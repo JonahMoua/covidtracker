@@ -7,8 +7,8 @@
 <div align="center">
 
 
-  <h3 align="center">LinkedIn Replica</h3>
-  <a href= "https://covidtracker-88882.web.app">demo</a>
+  <h3 align="center">Covid Tracker</h3>
+  <a href= "https://covid-tracker-cee7d.web.app">Demo</a>
 
 </div>
 
